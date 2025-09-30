@@ -31,9 +31,7 @@ int bintoDec(int binNum){
 
 int main() {
     int decNum= 7; 
-    int binNum = 1011;
-    cout << bintoDec( binNum ) <<endl;
-    //cout << dectoBin(decNum) << endl;
+    cout << dectoBin(decNum) << endl;
    
     }
 
