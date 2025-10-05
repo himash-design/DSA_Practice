@@ -51,8 +51,14 @@ Currently, I am actively working on **Arrays**. Other topics will be added gradu
 
 
 > Each folder contains solved problems with clean and commented code for reference.
-
----
+DSA_Practice/
+├─ Arrays/
+│  ├─ Problem1.cpp
+│  ├─ Problem2.cpp
+├─ Binary_Number_SYS/
+│  ├─ Dec_to_Bin.cpp
+│  ├─ Miscelleneous_Concepts.cpp
+├─ README.md
 
 ## Topics Covered (so far)
 
