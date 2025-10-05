@@ -94,3 +94,30 @@ git clone https://github.com/<your-username>/DSA_Practice.git
 git add README.md
 git commit -m "Add README with current DSA progress"
 git push origin main
+## Problem Solving Approach
+
+1. **Understand the problem**  
+   - Read carefully and identify input, output, and constraints.
+
+2. **Plan a solution**  
+   - Choose the appropriate data structure or algorithm.  
+   - Consider edge cases and expected time/space complexity.
+
+3. **Write clean code**  
+   - Write well-commented, readable code.  
+   - Use meaningful variable names.
+
+4. **Test thoroughly**  
+   - Check sample inputs and corner cases.  
+   - Make sure your solution works for all possible scenarios.
+
+5. **Optimize**  
+   - Improve time/space complexity if possible.  
+   - Refactor code for clarity and efficiency.
+
+---
+
+## Contact
+
+- GitHub: [https://github.com/<himash-design>](https://github.com/himash-design)  
+- Email: `<bhimanshi988@gmail.com>`  
